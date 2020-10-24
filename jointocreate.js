@@ -1,7 +1,3 @@
-
-
-//const Quick = require('quick.db-plus');
-//const jointocreatemap = new Quick.db('./join2create');
 const config = require("./config");
 const jointocreatemap = new Map();
 module.exports = function (client) {
