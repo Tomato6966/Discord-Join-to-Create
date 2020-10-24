@@ -15,4 +15,4 @@ A basic Join to Create Bot, Which works perfectly finem, Easy to setup!
 
 
 **NOTE:**
-*If you are having errors with starting delete the package.json file and do, before you install the packages `npm init`*
+*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
