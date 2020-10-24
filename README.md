@@ -1,5 +1,5 @@
 # Discord-Join-to-Create
-A basic Join to Create Bot
+A basic Join to Create Bot, Which works perfectly finem, Easy to setup!
 
 
 # How to use the Bot
