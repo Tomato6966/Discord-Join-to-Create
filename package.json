@@ -1,0 +1,16 @@
+{
+  "name": "jointocreatebot",
+  "version": "1.0.0",
+  "description": "A Basic OP JointoCreate BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tomato#6966",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "node.js": "0.0.1-security"
+  }
+}
