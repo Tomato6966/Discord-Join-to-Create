@@ -32,8 +32,11 @@ client.login(config.TOKEN);                     //start the bot with the bot tok
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-**Milrato** [Invite him now(currently not possible due to the fact, he is not verified)](https://bit.ly/Milrato)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://bit.ly/Musicium)
+[![Milrato Muslti Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://bit.ly/Milrato)
 
-**Musicium** [A very good Music Bot, for ultimate Music experience, Download your songs, 24/7 Radio Stations, and more](https://bit.ly/Musicium)
+[| fork my repository  |](https://github.com/user/repository/fork)
+[watch this repo  |](https://github.com/user/repository/subscription)
+[create issue |](https://github.com/user/repository/issues/new)
 
 *Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
