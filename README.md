@@ -27,3 +27,13 @@ client.login(config.TOKEN);                     //start the bot with the bot tok
 ## **NOTE:**
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+
+## SUPPORT ME
+
+You can always Support me by inviting one of my **own Discord Bots**
+
+**Milrato** [Invite him now(currently not possible due to the fact, he is not verified)](https://bit.ly/Milrato)
+
+**Musicium** [A very good Music Bot, for ultimate Music experience, Download your songs, 24/7 Radio Stations, and more](https://bit.ly/Musicium)
+
+*Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
