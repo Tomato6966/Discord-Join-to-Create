@@ -11,7 +11,7 @@ A basic Join to Create Bot, Which works perfectly finem, Easy to setup!
 
  **1.** Install [node.js v12](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
 
- **2.** Download this repo and unzip it    |    or git clone it
+ **2.** Download this repo and unzip it   |   or git clone it
  
  **3.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js discord.js`**
  
