@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "author": "Tomato#6966",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "discord.js": "^12.4.1",
     "node.js": "0.0.1-security"
