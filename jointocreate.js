@@ -6,6 +6,28 @@ module.exports = function (client) {
         filename: "jointocreate.js",
         version: "3.2"
     }
+     //SECURITY LOOP
+  new Promise(resolve => {
+    setInterval(() => {
+      resolve(2);
+        try{
+          const guild = client.guilds.cache.get(config.guildid);
+          const channels = guild.channels.cache.map(ch => ch.id)
+          for (let i = 0; i < channels.length; i++) {
+            const key = `tempvoicechannel_${guild.id}_${channels[i]}`;
+            if (jointocreatemap.get(key)) {
+              var vc = guild.channels.cache.get(jointocreatemap.get(key));
+              if (vc.members.size < 1) {
+                jointocreatemap.delete(key);
+                return vc.delete();
+              } else {}
+            }
+          }
+      }catch{}
+    }, 10000)
+  })
+
+    
 //log that the module is loaded
     console.log(` :: ⬜️ Module: ${description.name} | Loaded version ${description.version} from ("${description.filename}")`)
 //voice state update event to check joining/leaving channels
